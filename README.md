@@ -82,4 +82,24 @@ Currently serving as **Deputy CEO & Technical Director at [Tosali Technologies](
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ezechiaskumbukumbu&theme=onestar&margin-w=8&no-frame=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezechiaskumbukumbu&layout=compact&theme=github_dark)
-![GitHub Streak]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezechiaskumbukumbu&theme=github-dark-blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezechiaskumbukumbu&show_icons=true&theme=github_dark&hide_title=true)
+
+---
+
+## 📬 Let's Connect
+
+📧 **Professional:** [ezechiaskumbukumbu1@huawei-partners.com](mailto:ezechiaskumbukumbu1@huawei-partners.com)  
+🌐 **LinkedIn:** [linkedin.com/in/ezechias-kumbu-kumbu-779422315](https://www.linkedin.com/in/ezechias-kumbu-kumbu-779422315/)  
+📞 **Mobile:** +243 821 851 806  
+💼 **GitHub Portfolio:** [github.com/ezechiaskumbukumbu](https://github.com/ezechiaskumbukumbu)
+
+---
+
+## ⚡ Beyond Tech
+
+I lead **Maison de Paix**, a local peace and discipleship community.  
+I enjoy **teaching**, **singing**, and **writing** about the intersection of **technology, faith, and innovation**.
+
+> “Security is not just a feature — it’s a commitment to people, integrity, and trust.”  
+> — *Ezechias KUMBU KUMBU*
